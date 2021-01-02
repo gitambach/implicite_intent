@@ -1,0 +1,16 @@
+<resources>
+    <string name="edittext_uri">http://developer.android.com</string>
+    <string name="button_uri">Open Website</string>
+
+    <string name="edittext_loc">Golden Gate Bridge</string>
+    <string name="button_loc">Open Location</string>
+
+    <string name="edittext_share">\'Twas brillig and the slithy toves</string>
+    <string name="button_share">Share This Text</string>
+    <string name="uri_label"></string>
+    <string name="share_text_with"></string>
+    <string name="link">https://developer.android.com/</string>
+    <string name="golden">Golden Gate Bridge</string>
+    <string name="brill">\'Twas brilling and slithy tovs</string>
+    <item name="text_uri_message" type="id"></item>
+</resources>
